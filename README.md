@@ -1,5 +1,7 @@
 # AWS-Redshift-Infrastructure-As-Code
 
+Note: AWS CREDENTIALS ALREADY INVALID.
+
 This project involves programmatic interaction with AWS Redshift:
 • Provide explicit access to S3
 • Create redshift cluster
