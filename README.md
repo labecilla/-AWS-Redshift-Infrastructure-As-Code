@@ -1,6 +1,6 @@
 # AWS-Redshift-Infrastructure-As-Code
 
-Note: AWS CREDENTIALS ALREADY INVALID.
+Note: AWS CREDENTIALS IN THE CONFIG FILE ARE ALREADY INVALID.
 
 This project involves programmatic interaction with AWS Redshift:
 • Provide explicit access to S3
